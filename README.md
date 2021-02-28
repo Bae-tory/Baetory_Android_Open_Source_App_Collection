@@ -1,5 +1,3 @@
-# Baetory_Android_Open_Source_App_Collection
-
 ### This is the collection of awesome open-source-app of android to know by baetory. if it helps give me star thanks
 
 
