@@ -208,7 +208,7 @@ Ad Free: Now and always ad-free.
 Note-ifications: Notes can be kept in the notifications list of your phone.
 Floating Heads: Quickly take notes while doing other stuff.
 
-(Calculator N+ - Math Solver - CAS calculator)[https://github.com/tranleduy2000/ncalc]
+(Calculator)[https://github.com/tranleduy2000/ncalc]
 
 
 ![image](https://user-images.githubusercontent.com/45292707/109409757-a8fd4700-79d8-11eb-8e12-1d14f3fc574a.png)
