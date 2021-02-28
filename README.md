@@ -1,4 +1,4 @@
-# Android_Open_Source_App_Collection
+# Baetory_Android_Open_Source_App_Collection
 [Telegram](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
 
 
@@ -203,4 +203,50 @@ Ad Free: Now and always ad-free.
 Note-ifications: Notes can be kept in the notifications list of your phone.
 Floating Heads: Quickly take notes while doing other stuff.
 
+(Calculator N+ - Math Solver - CAS calculator)[https://github.com/tranleduy2000/ncalc]
 
+
+![image](https://user-images.githubusercontent.com/45292707/109409757-a8fd4700-79d8-11eb-8e12-1d14f3fc574a.png)
+
+
+This is a powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex. This project is an open source project that allows people to study, ad-free application.
+
+[Loop Habit Tracker](https://github.com/iSoron/uhabits)
+
+
+![image](https://user-images.githubusercontent.com/45292707/109409754-9b47c180-79d8-11eb-9ae2-8e6144fbd426.png)
+
+
+Loop is a mobile app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time. It is completely ad-free and open source.
+
+[Orgzly](https://github.com/orgzly/orgzly-android)
+Orgzly is an outliner for taking notes and managing to-do lists.
+
+You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card, WebDAV server or Dropbox.
+
+Notebooks are saved in Org mode’s file format. “Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.” See http://orgmode.org for more information.
+
+[OsmAnd](https://github.com/osmandapp/OsmAnd)
+
+
+![image](https://user-images.githubusercontent.com/45292707/109409813-0f826500-79d9-11eb-8da2-9f6dbcc1bb57.png)
+
+
+This project aims at providing comfortable map viewing and navigation (routing) application for mobile devices. Particular stress lies with complete offline features (via pre-loaded offline map data) or economic internet usage. To get started, continue with the basic description below, then find more detail on our Welcome Wiki Pages, the Project Homepage, or the OpenStreetMap OsmAnd Wiki Page. You are welcome to discuss any question regarding the project at the Google group OsmAnd. Please do not use comments on wiki pages because it is rather difficult to find them.
+
+[Pedometer](https://github.com/j4velin/Pedometer)
+
+![image](https://user-images.githubusercontent.com/45292707/109409865-84ee3580-79d9-11eb-9845-3b2c7af5ef9c.png)
+
+
+Lightweight pedometer app using the hardware step-sensor for minimal battery consumption. This app is designed to be kept running all the time without having any impact on your battery life! It uses the hardware step detection sensor of the Nexus 5, which is already running even when not using any pedometer app. Therefore the app does not drain any additional battery. Unlike other pedometer apps, this app does not track your movement or your location so it doesn't need to turn on your GPS sensor (again: no impact on your battery).
+
+[Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
+
+
+![image](https://user-images.githubusercontent.com/45292707/109409883-a818e500-79d9-11eb-9ca4-9bf9413c8a8e.png)
+
+
+Simple Gallery Pro is a highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
+
+[Vanilla Music](https://github.com/vanilla-music/vanilla)
