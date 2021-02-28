@@ -1,4 +1,5 @@
-### This is the collection of awesome open-source-app of android to know by baetory. if it helps give me star thanks
+### This is the collection of awesome open-source-app of android to know by baetory. \
+### if it helps give me star thanks
 
 
 
